@@ -42,4 +42,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - ES7 ใช้ gen code ทำให้เราไม่ต้องพิมพ์เยอะ
 - Prettier จัด format
 - TaiwindCSS Intellisence ใช้จัดการ class ลดการจำ
-- VSCode icons 
+- VSCode icons # test-01
