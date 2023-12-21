@@ -7,7 +7,7 @@ const page = (props: Props) => {
     <div>Home
       <p>
          Test connect NextJs test Github 2023
-         <P>Test 05</P>
+         <p>Test 05</p>
         !!!! OK !!!!
       </p>
     </div>
